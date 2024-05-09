@@ -660,6 +660,17 @@ nav {
   padding: 5px;
 }
 
-.review__content p {
-  text-align: center;
-}
+.review__content {
+    text-align: center;
+  }
+
+  .review__content span {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .review__content p {
+    text-align: left;
+    max-width: 600px; /* Adjust as needed */
+    margin: 0 auto;
+  }
