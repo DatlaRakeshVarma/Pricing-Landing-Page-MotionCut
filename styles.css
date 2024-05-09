@@ -660,6 +660,6 @@ nav {
   padding: 5px;
 }
 
-.review__content {
-    text-align: center;
-  }
+.review__content p {
+  text-align: center;
+}
