@@ -659,3 +659,7 @@ nav {
   font-size: 16px;
   padding: 5px;
 }
+
+.center {
+  text-align: center;
+}
