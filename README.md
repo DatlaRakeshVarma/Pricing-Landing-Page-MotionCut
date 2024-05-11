@@ -1,1 +1,1 @@
-# Landing-Page-MotionCut
+# Pricing-Landing-Page-MotionCut
